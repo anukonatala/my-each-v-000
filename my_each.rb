@@ -6,5 +6,5 @@ def my_each(collection)
     yield
     i += 1
   end
-  
+  collection
 end
